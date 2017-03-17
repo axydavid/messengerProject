@@ -1,0 +1,82 @@
+D:\workspace\Wpf_FB\Wpf_FB\bin\Debug\Wpf_FB.exe.config
+D:\workspace\Wpf_FB\Wpf_FB\bin\Debug\edge\double_edge.js
+D:\workspace\Wpf_FB\Wpf_FB\bin\Debug\edge\edge.js
+D:\workspace\Wpf_FB\Wpf_FB\bin\Debug\edge\x64\node.dll
+D:\workspace\Wpf_FB\Wpf_FB\bin\Debug\edge\x86\node.dll
+D:\workspace\Wpf_FB\Wpf_FB\bin\Debug\edge\x64\edge_nativeclr.node
+D:\workspace\Wpf_FB\Wpf_FB\bin\Debug\edge\x86\edge_nativeclr.node
+D:\workspace\Wpf_FB\Wpf_FB\bin\Debug\Wpf_FB.exe
+D:\workspace\Wpf_FB\Wpf_FB\bin\Debug\Wpf_FB.pdb
+D:\workspace\Wpf_FB\Wpf_FB\bin\Debug\EdgeJs.dll
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\Wpf_FB.csprojResolveAssemblyReference.cache
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\MainWindow.g.cs
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\App.g.cs
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\Wpf_FB_Content.g.cs
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\Wpf_FB_MarkupCompile.cache
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\Wpf_FB_MarkupCompile.lref
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\MainWindow.baml
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\Wpf_FB.g.resources
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\Wpf_FB.Properties.Resources.resources
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\Wpf_FB.csproj.GenerateResource.Cache
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\Wpf_FB.exe
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\Wpf_FB.pdb
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\ChatWindow.g.cs
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\FriendListWindow.g.cs
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\LoginWindow.g.cs
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\ChatWindow.baml
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\FriendListWindow.baml
+D:\workspace\Wpf_FB\Wpf_FB\obj\Debug\LoginWindow.baml
+E:\WPF_FB 8\Wpf_FB\bin\Debug\Wpf_FB.exe.config
+E:\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.exe
+E:\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.pdb
+E:\WPF_FB 8\Wpf_FB\obj\Debug\ChatWindow.g.cs
+E:\WPF_FB 8\Wpf_FB\obj\Debug\FriendListWindow.g.cs
+E:\WPF_FB 8\Wpf_FB\obj\Debug\LoginWindow.g.cs
+E:\WPF_FB 8\Wpf_FB\obj\Debug\MainWindow.g.cs
+E:\WPF_FB 8\Wpf_FB\obj\Debug\App.g.cs
+E:\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB_Content.g.cs
+E:\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB_MarkupCompile.cache
+E:\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB_MarkupCompile.lref
+E:\WPF_FB 8\Wpf_FB\bin\Debug\edge\x64\node.dll
+E:\WPF_FB 8\Wpf_FB\bin\Debug\edge\x86\node.dll
+E:\WPF_FB 8\Wpf_FB\bin\Debug\edge\x64\edge_nativeclr.node
+E:\WPF_FB 8\Wpf_FB\bin\Debug\edge\x86\edge_nativeclr.node
+E:\WPF_FB 8\Wpf_FB\bin\Debug\edge\double_edge.js
+E:\WPF_FB 8\Wpf_FB\bin\Debug\edge\edge.js
+E:\WPF_FB 8\Wpf_FB\bin\Debug\Wpf_FB.exe
+E:\WPF_FB 8\Wpf_FB\bin\Debug\Wpf_FB.pdb
+E:\WPF_FB 8\Wpf_FB\bin\Debug\EdgeJs.dll
+E:\WPF_FB 8\Wpf_FB\obj\Debug\ChatWindow.baml
+E:\WPF_FB 8\Wpf_FB\obj\Debug\FriendListWindow.baml
+E:\WPF_FB 8\Wpf_FB\obj\Debug\LoginWindow.baml
+E:\WPF_FB 8\Wpf_FB\obj\Debug\MainWindow.baml
+E:\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.g.resources
+E:\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.Properties.Resources.resources
+E:\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.csproj.GenerateResource.Cache
+E:\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.csprojResolveAssemblyReference.cache
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\bin\Debug\Wpf_FB.exe.config
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.exe
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.pdb
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\bin\Debug\edge\double_edge.js
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\bin\Debug\edge\edge.js
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\bin\Debug\edge\x64\node.dll
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\bin\Debug\edge\x86\node.dll
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\bin\Debug\edge\x64\edge_nativeclr.node
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\bin\Debug\edge\x86\edge_nativeclr.node
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\bin\Debug\Wpf_FB.exe
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\bin\Debug\Wpf_FB.pdb
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\bin\Debug\EdgeJs.dll
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.csprojResolveAssemblyReference.cache
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\ChatWindow.g.cs
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\FriendListWindow.g.cs
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\MainWindow.g.cs
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\App.g.cs
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB_Content.g.cs
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB_MarkupCompile.cache
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB_MarkupCompile.lref
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\ChatWindow.baml
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\FriendListWindow.baml
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\MainWindow.baml
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.g.resources
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.Properties.Resources.resources
+D:\workspace\WPF_FB-FINAL2\WPF_FB 8\Wpf_FB\obj\Debug\Wpf_FB.csproj.GenerateResource.Cache
